@@ -1,6 +1,5 @@
-red
 green
+red
 blue
-black
 yellow
-orange
+black
