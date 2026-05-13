@@ -1,0 +1,9 @@
+green
+red
+blue
+yellow
+orange
+black
+pink
+yellow
+新的一行一行
